@@ -32,6 +32,38 @@ Threat intelligence flows from ShieldNetX into TraceNetX, so a scam blocked on o
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/spider-map.png" width="100%" alt="TraceNetX Spider Map"/><br/>
+  <b>Spider Map</b>: layered money-flow graph with role-colored nodes, tracing mule chains back to the dealer
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/dashboard.png" alt="Risk Intelligence Dashboard"/><br/>
+      <b>Risk Intelligence Dashboard</b><br/>Account risk scores, city and volume analytics
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/city-map.png" alt="India Money Flow Map"/><br/>
+      <b>City Map</b><br/>Geospatial view of fund movement across India
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/evidence-package.png" alt="Evidence Package"/><br/>
+      <b>Evidence Package</b><br/>SHAP-explained, regulator-ready case file
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/shieldnetx-app.png" width="45%" alt="ShieldNetX Android app"/><br/>
+      <b>ShieldNetX Android App</b><br/>Link scanner and accessibility-service protection
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Architecture
 
 ```mermaid

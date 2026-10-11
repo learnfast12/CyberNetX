@@ -1,7 +1,0 @@
-node_modules/
-__pycache__/
-*.pyc
-*.db
-.eslintcache
-logs/
-*.csv

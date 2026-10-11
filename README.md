@@ -123,6 +123,13 @@ Most tools catch the criminal at the end of the chain. TraceNetX finds the **dea
 
 ## Repository Structure
 
+```
+cybernetx/
+├── shieldnetx/     # Phishing detection: extension, Android app, backend
+├── tracenetx/      # Fraud graph platform: backend, frontend, docs
+└── README.md
+```
+
 ---
 
 ## Getting Started
@@ -148,6 +155,7 @@ npm install && npm start
 ### ShieldNetX
 
 Each ShieldNetX component (extension, Android app, backend) has its own setup instructions in the [`shieldnetx/`](./shieldnetx) directory.
+
 
 > Make sure the Neo4j credentials in your environment match the backend configuration. Never commit credentials to the repository.
 
